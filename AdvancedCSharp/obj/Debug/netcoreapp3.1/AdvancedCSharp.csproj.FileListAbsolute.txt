@@ -1,0 +1,13 @@
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.exe
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.deps.json
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.runtimeconfig.json
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.runtimeconfig.dev.json
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.dll
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.pdb
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.AssemblyInfoInputs.cache
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.AssemblyInfo.cs
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.dll
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.pdb
+C:\Users\manue\Desktop\Programme\C-Sharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.genruntimeconfig.cache
